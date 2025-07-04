@@ -1,0 +1,3 @@
+class e{
+    public
+}
